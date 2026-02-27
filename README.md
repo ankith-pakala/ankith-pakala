@@ -4,6 +4,9 @@
 Email Me 👉 ✉️ **Pakalaankith@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
+# 💫 About Me:
+🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack and improving my Data Structures & Algorithms skills.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, web development projects, and innovative tech ideas.<br><br>🫱 I’m looking for help with<br>Advanced backend architecture and real-world data analytics implementations.<br><br>🌱 I’m currently learning<br>Advanced React, backend optimization, and data analysis using Python.<br><br>💬 Ask me about<br>MERN stack development, portfolio building, and getting started with web projects.<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into functional applications and constantly challenge myself to learn something new every day.<br>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -12,11 +15,6 @@ Email Me 👉 ✉️ **Pakalaankith@gmail.com** For Collaboration/Project or Any
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-# 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack and improving my Data Structures & Algorithms skills.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, web development projects, and innovative tech ideas.<br><br>🫱 I’m looking for help with<br>Advanced backend architecture and real-world data analytics implementations.<br><br>🌱 I’m currently learning<br>Advanced React, backend optimization, and data analysis using Python.<br><br>💬 Ask me about<br>MERN stack development, portfolio building, and getting started with web projects.<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into functional applications and constantly challenge myself to learn something new every day.<br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pakala Ankith) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankith_2912) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankith Pakala) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pakala Ankith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Pakalaankith@gmail.com) 
