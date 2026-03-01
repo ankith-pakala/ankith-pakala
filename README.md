@@ -25,12 +25,6 @@ CheckOut My work at : https://ankith-pakala.github.io/
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankith-pakala&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankith-pakala&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankith-pakala&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankith-pakala&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
 
